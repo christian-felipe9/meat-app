@@ -10,6 +10,8 @@ export class RatingComponent implements OnInit {
 
   rate: number = 0;
 
+  previousRate: number
+
   constructor() { }
 
   ngOnInit() {
