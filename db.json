@@ -370,5 +370,22 @@
       "restaurantId": "tasty-treats"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "name": "Christian Felipe Lopes Dias",
+      "email": "christian_felipe9@hotmail.com",
+      "emailConfirmation": "christian_felipe9@hotmail.com",
+      "address": "Rua da Amizade do Tatuapé",
+      "number": "25",
+      "optionalAddress": "",
+      "paymentOption": "REF",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuID": "cup-cake"
+        }
+      ],
+      "id": 1
+    }
+  ]
 }
