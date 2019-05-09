@@ -386,34 +386,6 @@
         }
       ],
       "id": 1
-    },
-    {
-      "name": "Amanda",
-      "email": "amanda@gmail.com",
-      "emailConfirmation": "amanda@gmail.com",
-      "address": "Rua Millenium",
-      "number": "90",
-      "optionalAddress": "",
-      "paymentOption": "DEB",
-      "orderItems": [
-        {
-          "quantity": 1,
-          "menuID": "donut"
-        },
-        {
-          "quantity": 1,
-          "menuID": "bread"
-        },
-        {
-          "quantity": 1,
-          "menuID": "zlasagna"
-        },
-        {
-          "quantity": 1,
-          "menuID": "greensandwich"
-        }
-      ],
-      "id": 2
-    }
+}
   ]
 }
